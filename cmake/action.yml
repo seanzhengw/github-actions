@@ -1,0 +1,6 @@
+# action.yml
+name: 'CMake'
+description: 'CMake and make repo'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
